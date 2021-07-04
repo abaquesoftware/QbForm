@@ -1,28 +1,28 @@
 [submodule "QbForm-js"]
 	path = QbForm-js
-	url = git@github.com:abaquesoftware/QbForm-js.git
+	url = https://github.com/abaquesoftware/QbForm-js.git
 	branch = v0.0.1-beta
 [submodule "QbForm-js-table"]
 	path = QbForm-js-table
-	url = git@github.com:abaquesoftware/QbForm-js-table.git
+	url = https://github.com/abaquesoftware/QbForm-js-table.git
 	branch = v0.0.1-beta
 [submodule "QbForm-reactjs"]
 	path = QbForm-reactjs
-	url = git@github.com:abaquesoftware/QbForm-reactjs.git
+	url = https://github.com/abaquesoftware/QbForm-reactjs.git
 	branch = v0.0.1-beta
 [submodule "QbForm-vuejs"]
 	path = QbForm-vuejs
-	url = git@github.com:abaquesoftware/QbForm-vuejs.git
+	url = https://github.com/abaquesoftware/QbForm-vuejs.git
 	branch = v0.0.1-beta
 [submodule "QbForm-test-js"]
 	path = QbForm-test-js
-	url = git@github.com:abaquesoftware/QbForm-test-js.git
+	url = https://github.com/abaquesoftware/QbForm-test-js.git
 	branch = v0.0.1-beta
 [submodule "QbForm-test-reactjs"]
 	path = QbForm-test-reactjs
-	url = git@github.com:abaquesoftware/QbForm-test-reactjs.git
+	url = https://github.com/abaquesoftware/QbForm-test-reactjs.git
 	branch = v0.0.1-beta
 [submodule "QbForm-test-vuejs"]
 	path = QbForm-test-vuejs
-	url = git@github.com:abaquesoftware/QbForm-test-vuejs.git
+	url = https://github.com/abaquesoftware/QbForm-test-vuejs.git
 	branch = v0.0.1-beta
