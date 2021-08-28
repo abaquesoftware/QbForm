@@ -2,28 +2,35 @@
 	path = QbForm-js
 	url = https://github.com/abaquesoftware/QbForm-js.git
 	branch = main
+	update = rebase
 [submodule "QbForm-js-table"]
 	path = QbForm-js-table
 	url = https://github.com/abaquesoftware/QbForm-js-table.git
 	branch = main
+	update = rebase
 [submodule "QbForm-reactjs"]
 	path = QbForm-reactjs
 	url = https://github.com/abaquesoftware/QbForm-reactjs.git
 	branch = main
+	update = rebase
 [submodule "QbForm-vuejs"]
 	path = QbForm-vuejs
 	url = https://github.com/abaquesoftware/QbForm-vuejs.git
 	branch = main
+	update = rebase
 [submodule "QbForm-test-js"]
 	path = QbForm-test-js
 	url = https://github.com/abaquesoftware/QbForm-test-js.git
 	branch = main
+	update = rebase
 [submodule "QbForm-test-reactjs"]
 	path = QbForm-test-reactjs
 	url = https://github.com/abaquesoftware/QbForm-test-reactjs.git
 	branch = main
+	update = rebase
 [submodule "QbForm-test-vuejs"]
 	path = QbForm-test-vuejs
 	url = https://github.com/abaquesoftware/QbForm-test-vuejs.git
 	branch = main
+	update = rebase
 
